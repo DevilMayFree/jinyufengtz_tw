@@ -1976,7 +1976,7 @@ input.main-search-input:-ms-input-placeholder {
 }
 /* page-title */
 .breadcrumb-bg {
-	background-size: cover;
+	/*background-size: cover;*/
 	background-position: center center;
 }
 .small-text {
